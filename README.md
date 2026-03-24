@@ -3,7 +3,7 @@
 > A bi-directional text converter built entirely in Bash, designed as an exercise in advanced shell scripting, string manipulation, and data structure implementation.
 
 **Authors & Contributors:** 
-* Răzvan - [Link Profil GitHub]
+* Răzvan - [@GabreanuR](https://github.com/GabreanuR)
 * Maia - [@maia-sapunaru](https://github.com/maia-sapunaru)
 * Ruxi - [@rmig22](https://github.com/rmig22)
 
