@@ -4,8 +4,8 @@
 
 **Authors & Contributors:** 
 * Răzvan - [Link Profil GitHub]
-* Maia - [@rmig22](https://github.com/rmig22)
-* Ruxi - [@maia-sapunaru](https://github.com/maia-sapunaru)
+* Maia - [@maia-sapunaru](https://github.com/maia-sapunaru)
+* Ruxi - [@rmig22](https://github.com/rmig22)
 
 ## Overview
 
