@@ -2,7 +2,8 @@
 
 > A bi-directional text converter built entirely in Bash, designed as an exercise in advanced shell scripting, string manipulation, and data structure implementation.
 
-**Authors & Contributors:** * Răzvan - [Link Profil GitHub]
+**Authors & Contributors:** 
+* Răzvan - [Link Profil GitHub]
 * Maia - [@rmig22](https://github.com/rmig22)
 * Ruxi - [@maia-sapunaru](https://github.com/maia-sapunaru)
 
